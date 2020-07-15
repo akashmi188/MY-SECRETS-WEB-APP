@@ -1,1 +1,2 @@
 # MY-SECRETS-WEB-APP
+I have made this web app using html5,css3,javaScript,nodejs,mongodb.This is a website were different users can share there secrets with others.I have provided different login options in this and even you can login directly with the help of google.I have also used the hashing with salting techniques to protect your data such as password so that if anyone even tries to hack the website your password will remain same.
